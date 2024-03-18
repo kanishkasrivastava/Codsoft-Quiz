@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Codsoft-Quiz/static/css/main.150dca74.css",
+    "main.js": "/Codsoft-Quiz/static/js/main.25d07f08.js",
+    "index.html": "/Codsoft-Quiz/index.html",
+    "main.150dca74.css.map": "/Codsoft-Quiz/static/css/main.150dca74.css.map",
+    "main.25d07f08.js.map": "/Codsoft-Quiz/static/js/main.25d07f08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.150dca74.css",
+    "static/js/main.25d07f08.js"
+  ]
+}
